@@ -1,0 +1,30 @@
+.contenido {
+    background-color: #664caf; /* Green */
+ 
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    background-color: rgba(255, 255, 255, 0.418);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 3);
+    width: 400px;
+    height: 200px;
+    max-width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+    min-height: 50vh;
+    margin: 25;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 20px 40px;
+    
+}
+
+
+h2{
+    color: rgb(17, 17, 17);   
+
+}
